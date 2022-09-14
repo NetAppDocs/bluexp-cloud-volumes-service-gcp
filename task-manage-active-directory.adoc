@@ -19,9 +19,9 @@ If you changed your DNS servers or Active Directory domain, you need to modify t
 
 . Open the working environment.
 
-. Click the image:screenshot_gallery_options.gif[] button at the top of the page and click *Manage Active Directory*.
+. Click the image:screenshot_gallery_options.gif[An icon with three dots] button at the top of the page and click *Manage Active Directory*.
 +
-If no Active Directory is configured, you can add one now. If one is configured, you can modify or delete the settings using the image:screenshot_gallery_options.gif[] button.
+If no Active Directory is configured, you can add one now. If one is configured, you can modify or delete the settings using the image:screenshot_gallery_options.gif[An icon with three dots] button.
 
 . Specify the settings for the SMB server:
 +
