@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: whats-new.html
 keywords: what's new, features, new, release notes
-summary: Learn what's new with Cloud Volumes Service for Google Cloud in Cloud Manager.
+summary: Learn what's new with Cloud Volumes Service for Google Cloud in BlueXP.
 ---
 
 = What's new
@@ -13,17 +13,17 @@ summary: Learn what's new with Cloud Volumes Service for Google Cloud in Cloud M
 :imagesdir: ./media/
 
 [.lead]
-Learn what's new with Cloud Volumes Service for Google Cloud in Cloud Manager.
+Learn what's new with Cloud Volumes Service for Google Cloud in BlueXP.
 
 //tag::whats-new[]
 == 9 September 2020
 
 === Support for Cloud Volumes Service for Google Cloud
 
-You can now manage Cloud Volumes Service for Google Cloud directly from Cloud Manager:
+You can now manage Cloud Volumes Service for Google Cloud directly from BlueXP:
 
 * Set up and create a working environment
 * Create and manage NFSv3 and NFSv4.1 volumes for Linux and UNIX clients
 * Create and manage SMB 3.x volumes for Windows clients
-*	Create, delete, and restore volume snapshots
+* Create, delete, and restore volume snapshots
 //end::whats-new[]

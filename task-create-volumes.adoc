@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task-create-volumes.html
 keywords: cloud volumes service for gcp, google cloud, cloud volumes, create cloud volumes, mount volume
-summary: Cloud Manager enables you to create cloud volumes based on your Cloud Volumes Service for Google Cloud subscription. After you create a volume, get the relevant mount commands so that you can mount the volume to a client.
+summary: BlueXP enables you to create cloud volumes based on your Cloud Volumes Service for Google Cloud subscription. After you create a volume, get the relevant mount commands so that you can mount the volume to a client.
 ---
 
 = Create and mount volumes
@@ -13,7 +13,7 @@ summary: Cloud Manager enables you to create cloud volumes based on your Cloud V
 :imagesdir: ./media/
 
 [.lead]
-Cloud Manager enables you to create cloud volumes based on your Cloud Volumes Service for Google Cloud subscription. After you create a volume, get the relevant mount commands so that you can mount the volume to a client.
+BlueXP enables you to create cloud volumes based on your Cloud Volumes Service for Google Cloud subscription. After you create a volume, get the relevant mount commands so that you can mount the volume to a client.
 
 == Create volumes
 
@@ -101,7 +101,7 @@ Continue with mounting the cloud volume.
 
 == Mount cloud volumes
 
-Access mounting instructions from within Cloud Manager so you can mount the volume to a host.
+Access mounting instructions from within BlueXP so you can mount the volume to a host.
 
 NOTE: Use the highlighted protocol/dialect supported by your client.
 
