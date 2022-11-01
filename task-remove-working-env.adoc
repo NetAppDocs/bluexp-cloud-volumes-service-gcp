@@ -2,10 +2,10 @@
 sidebar: sidebar
 permalink: task-remove-working-env.html
 keywords: remove working environment, delete working environment, remove cloud volumes service, remove, delete
-summary: You can remove a Cloud Volumes Service for Google Cloud subscription and all existing volumes from Cloud Manager. The volumes are not deleted, they are just removed from the Cloud Manager interface.
+summary: You can remove a Cloud Volumes Service for Google Cloud subscription and all existing volumes from BlueXP. The volumes are not deleted, they are just removed from the BlueXP interface.
 ---
 
-= Remove Cloud Volumes Service from Cloud Manager
+= Remove Cloud Volumes Service from BlueXP
 :hardbreaks:
 :nofooter:
 :icons: font
@@ -13,9 +13,9 @@ summary: You can remove a Cloud Volumes Service for Google Cloud subscription an
 :imagesdir: ./media/
 
 [.lead]
-You can remove a Cloud Volumes Service for Google Cloud subscription and all existing volumes from Cloud Manager. The volumes are not deleted, they are just removed from the Cloud Manager interface.
+You can remove a Cloud Volumes Service for Google Cloud subscription and all existing volumes from BlueXP. The volumes are not deleted, they are just removed from the BlueXP interface.
 
-TIP: Deleting your Cloud Volumes Service for Google Cloud subscription from Cloud Manager isn't supported. You can do this only through the Google Cloud Console.
+TIP: Deleting your Cloud Volumes Service for Google Cloud subscription from BlueXP isn't supported. You can do this only through the Google Cloud Console.
 
 .Steps
 

@@ -2,7 +2,7 @@
 sidebar: sidebar
 permalink: task-set-up-google-cloud.html
 keywords: setup, set up, api, service account, requirements, permissions
-summary: Cloud Manager needs access to the Cloud Volumes Service API and the right permissions through a Google Cloud service account.
+summary: BlueXP needs access to the Cloud Volumes Service API and the right permissions through a Google Cloud service account.
 ---
 
 = Set up Google Cloud
@@ -13,7 +13,7 @@ summary: Cloud Manager needs access to the Cloud Volumes Service API and the rig
 :imagesdir: ./media/
 
 [.lead]
-Cloud Manager needs access to the Cloud Volumes Service API and the right permissions through a Google Cloud service account.
+BlueXP needs access to the Cloud Volumes Service API and the right permissions through a Google Cloud service account.
 
 == Enable the Cloud Volumes Service API
 
@@ -23,7 +23,7 @@ In Google Cloud Shell, run the following command to enable the Cloud Volumes Ser
 
 == Set up a service account
 
-Complete the following tasks so that Cloud Manager can access your Google Cloud project:
+Complete the following tasks so that BlueXP can access your Google Cloud project:
 
 * Create a new service account
 * Add the new service account member to your project and assign it specific roles (permissions)

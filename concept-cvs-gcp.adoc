@@ -29,9 +29,9 @@ NetApp Cloud Volumes Service for Google Cloud enables you to quickly add multi-p
 
 == Cost
 
-Volumes created by the Cloud Volumes Service for Google Cloud are charged to your subscription to the service, not through Cloud Manager.
+Volumes created by the Cloud Volumes Service for Google Cloud are charged to your subscription to the service, not through BlueXP (formerly Cloud Manager).
 
-There are no charges to discover a Cloud Volumes Service for Google Cloud region or volume from Cloud Manager.
+There are no charges to discover a Cloud Volumes Service for Google Cloud region or volume from BlueXP.
 
 link:https://console.cloud.google.com/marketplace/product/endpoints/cloudvolumesgcp-api.netapp.com?q=cloud%20volumes%20service[View pricing in the Google Cloud Marketplace^]
 
@@ -41,11 +41,11 @@ https://cloud.netapp.com/cloud-volumes-global-regions#cvsGc[View supported Googl
 
 == Before you get started
 
-Cloud Manager can discover existing Cloud Volumes Service for GCP subscriptions and volumes. See the https://cloud.google.com/solutions/partners/netapp-cloud-volumes/[NetApp Cloud Volumes Service for Google Cloud documentation^] if you haven't set up your subscription yet.
+BlueXP can discover existing Cloud Volumes Service for GCP subscriptions and volumes. See the https://cloud.google.com/solutions/partners/netapp-cloud-volumes/[NetApp Cloud Volumes Service for Google Cloud documentation^] if you haven't set up your subscription yet.
 
 == Getting help
 
-Use the Cloud Manager chat for general questions about Cloud Volumes Service operation in Cloud Manager.
+Use the BlueXP chat for general questions about Cloud Volumes Service operation in BlueXP.
 
 For general questions about Cloud Volumes Service for Google Cloud, email NetApp’s Google Cloud Team at gcinfo@netapp.com.
 
@@ -53,5 +53,5 @@ For technical issues associated with your cloud volumes, you can create a techni
 
 == Related links
 
-* https://cloud.netapp.com/cloud-volumes-service-for-gcp[NetApp Cloud Central: Cloud Volumes Service for Google Cloud^]
+* https://cloud.netapp.com/cloud-volumes-service-for-gcp[NetApp BlueXP: Cloud Volumes Service for Google Cloud^]
 * https://cloud.google.com/solutions/partners/netapp-cloud-volumes/[NetApp Cloud Volumes Service for Google Cloud documentation^]
