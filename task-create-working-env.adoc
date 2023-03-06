@@ -31,11 +31,11 @@ You must have the following information available when adding a subscription for
 
 .Steps
 
-. In BlueXP, add a new Working Environment, select the location *Google Cloud*, and click *Continue*.
+. From the BlueXP navigation menu, select *Storage > Canvas*.
 
-. Select *Cloud Volumes Service* and click *Continue*.
-+
-image:screenshot_add_cvs_gcp_working_env.png[A screenshot of adding a working environment for a Cloud Volumes Service for GCP subscription.]
+. On the Canvas page, click *Add Working Environment* and select *Google Cloud Platform*.
+
+. Next to Cloud Volumes Service, select *Discover*.
 
 . Provide information about your Cloud Volumes Service subscription:
 
