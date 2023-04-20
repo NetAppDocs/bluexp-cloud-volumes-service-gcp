@@ -29,7 +29,7 @@ NetApp Cloud Volumes Service for Google Cloud enables you to quickly add multi-p
 
 == Cost
 
-Volumes created by the Cloud Volumes Service for Google Cloud are charged to your subscription to the service, not through BlueXP (formerly Cloud Manager).
+Volumes created by the Cloud Volumes Service for Google Cloud are charged to your subscription to the service, not through BlueXP.
 
 There are no charges to discover a Cloud Volumes Service for Google Cloud region or volume from BlueXP.
 
