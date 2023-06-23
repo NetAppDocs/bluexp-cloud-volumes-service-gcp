@@ -44,10 +44,15 @@ The Cloud Console generates a service account ID based on this name. Edit the ID
 . To set access controls now, click *Create* and then *DONE* from the bottom of the page, and continue to the next step.
 
 . From the _IAM page_ click *Add* and fill out the fields in the _Add Members_ page:
-.. In the New Members field, enter the full service account ID, for example, user1-service-account-cvs@project1.iam.gserviceaccount.com.
+
+.. In the New Members field, enter the full service account ID.
++
+For example: \user1-service-account-cvs@project1.iam.gserviceaccount.com
+
 .. Add these roles:
 * _NetApp Cloud Volumes Admin_
 * _Compute Network Viewer_
+
 .. Click *Save*.
 
 . Click the Service Account name, and then from the _Service account details_ page, click *Add key > Create new key*.
