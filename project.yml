@@ -12,7 +12,9 @@ sidebar:
     - title: Cloud Volumes Service for Google Cloud docs
       url: /index.html
     - title: Release notes
-      url: /whats-new.html
+      entries:
+        - title: What's new
+          url: /whats-new.html
     - title: Get started
       entries:
         - title: Learn about Cloud Volumes Service for Google Cloud
