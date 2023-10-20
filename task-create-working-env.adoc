@@ -15,9 +15,9 @@ summary: Create a Cloud Volumes Service for Google Cloud working environment in 
 [.lead]
 Create a Cloud Volumes Service for Google Cloud working environment in BlueXP so that you can create and manage volumes and snapshots.
 
-Regardless of whether you have already created volumes from the Google Cloud Console, or if you just signed up for Cloud Volumes Service for Google Cloud and have no volumes yet, the first step is to create a working environment for the volumes based on your GCP subscription.
+Regardless of whether you have already created volumes from the Google Cloud Console, or if you just signed up for Cloud Volumes Service for Google Cloud and have no volumes yet, the first step is to create a working environment for the volumes based on your Google Cloud subscription.
 
-If cloud volumes already exist for this subscription, then the volumes will appear in the new working environment. If you haven't added any cloud volumes yet for the GCP subscription, then you do that after you create the new working environment.
+If cloud volumes already exist for this subscription, then the volumes will appear in the new working environment. If you haven't added any cloud volumes yet for the Google Cloud subscription, then you do that after you create the new working environment.
 
 TIP: If you have subscriptions and volumes in multiple Google Cloud projects, you need to perform this task for each project.
 
@@ -44,7 +44,7 @@ You must have the following information available when adding a subscription for
 .. Select the name of your Google Cloud project.
 .. Click *Continue*.
 +
-image:screenshot_add_cvs_gcp_credentials.png[A screenshot of adding credentials for a Cloud Volumes Service for GCP subscription.]
+image:screenshot_add_cvs_gcp_credentials.png[A screenshot of adding credentials for a Cloud Volumes Service for Google Cloud subscription.]
 
 .Result
 
