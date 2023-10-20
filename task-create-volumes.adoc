@@ -21,7 +21,7 @@ You can create NFS or SMB volumes in a new or existing Cloud Volumes Service for
 
 .Before you begin
 
-* If you want to use SMB in GCP, you must have set up DNS and Active Directory.
+* If you want to use SMB in Google Cloud, you must have set up DNS and Active Directory.
 
 * When planning to create an SMB volume, you must have a Windows Active Directory server available to which you can connect. You will enter this information when creating the volume. Also, make sure that the Admin user is able to create a machine account in the Organizational unit (OU) path specified.
 
@@ -125,4 +125,4 @@ Note that Linux clients will default to NFSv4.1 unless the version is specified 
 image:screenshot_cvs_aws_smb_mount.png[Mount instructions for SMB volumes]
 . Map your network drive by following the mount instructions for your instance.
 +
-After completing the steps in the mount instructions, you have successfully mounted the cloud volume to your GCP instance.
+After completing the steps in the mount instructions, you have successfully mounted the cloud volume to your Google Cloud instance.

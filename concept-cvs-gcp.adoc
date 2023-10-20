@@ -41,7 +41,7 @@ https://cloud.netapp.com/cloud-volumes-global-regions#cvsGc[View supported Googl
 
 == Before you get started
 
-BlueXP can discover existing Cloud Volumes Service for GCP subscriptions and volumes. See the https://cloud.google.com/solutions/partners/netapp-cloud-volumes/[NetApp Cloud Volumes Service for Google Cloud documentation^] if you haven't set up your subscription yet.
+BlueXP can discover existing Cloud Volumes Service for Google Cloud subscriptions and volumes. See the https://cloud.google.com/solutions/partners/netapp-cloud-volumes/[NetApp Cloud Volumes Service for Google Cloud documentation^] if you haven't set up your subscription yet.
 
 == Getting help
 
