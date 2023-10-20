@@ -19,7 +19,7 @@ sidebar:
       entries:
         - title: Learn about Cloud Volumes Service for Google Cloud
           url: /concept-cvs-gcp.html
-        - title: Quick start
+        - title: Getting started workflow
           url: /task-quick-start.html
         - title: Set up Google Cloud
           url: /task-set-up-google-cloud.html

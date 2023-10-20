@@ -17,7 +17,7 @@ BlueXP needs access to the Cloud Volumes Service API and the right permissions t
 
 == Step 1: Enable the Cloud Volumes Service API
 
-From Google, enable the Cloud Volumes Service API so that BlueXP can manage the subscription and cloud volumes.
+Enable the Cloud Volumes Service API so that BlueXP can manage the subscription and cloud volumes.
 
 .Steps
 

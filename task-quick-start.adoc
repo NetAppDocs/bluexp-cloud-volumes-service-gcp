@@ -23,4 +23,4 @@ From Google, enable the Cloud Volumes Service API and create a service account.
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-2.png[Two] link:task-create-working-env.html[Create a working environment]
 
 [role="quick-margin-para"]
-In BlueXP, click *Add Working Environment* > *Google Cloud* > *Cloud Volumes Service* and then provide details about the service account and Google Cloud project.
+From BlueXP, click *Add Working Environment* > *Google Cloud* > *Cloud Volumes Service* and then provide details about the service account and Google Cloud project.
