@@ -15,7 +15,8 @@ summary: Learn what's new with Cloud Volumes Service for Google Cloud in BlueXP.
 [.lead]
 Learn what's new with Cloud Volumes Service for Google Cloud in BlueXP.
 
+// tag::whats-new[]
 == 9 September 2020
 
 include::_whatsnew/2020-09-09.adoc[]
-
+// end::whats-new[]
